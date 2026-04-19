@@ -6,7 +6,7 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
         Product {
             id: 1,
             name: "Apple iPhone 17 Pro Max 256GB - Cosmic Orange - Unlocked".to_string(),
-            price: 1740.99,
+            price: 9999.99,
             description: "Apple iPhone 17 Pro Max. The most powerful iPhone ever. Brilliant 6.9-inch display, aluminum unibody design, A19 Pro chip, all 48MP rear cameras and best-ever battery life.".to_string(),
             image: "/Apple iPhone 17 Pro Max.png".to_string()
         },
